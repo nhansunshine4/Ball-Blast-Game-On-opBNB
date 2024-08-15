@@ -1,0 +1,99 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &7632023734353043052
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 282940418949815030, guid: 0c36f83cf97608a4096fbe171ca969bd, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 282940418949815030, guid: 0c36f83cf97608a4096fbe171ca969bd, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2132190726218895862, guid: 0c36f83cf97608a4096fbe171ca969bd, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.6
+      objectReference: {fileID: 0}
+    - target: {fileID: 2132190726218895862, guid: 0c36f83cf97608a4096fbe171ca969bd, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.6
+      objectReference: {fileID: 0}
+    - target: {fileID: 2132190726218895862, guid: 0c36f83cf97608a4096fbe171ca969bd, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2132190726218895862, guid: 0c36f83cf97608a4096fbe171ca969bd, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2132190726218895862, guid: 0c36f83cf97608a4096fbe171ca969bd, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2132190726218895862, guid: 0c36f83cf97608a4096fbe171ca969bd, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2132190726218895862, guid: 0c36f83cf97608a4096fbe171ca969bd, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2132190726218895862, guid: 0c36f83cf97608a4096fbe171ca969bd, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2132190726218895862, guid: 0c36f83cf97608a4096fbe171ca969bd, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2132190726218895862, guid: 0c36f83cf97608a4096fbe171ca969bd, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2132190726218895862, guid: 0c36f83cf97608a4096fbe171ca969bd, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2132190726218895862, guid: 0c36f83cf97608a4096fbe171ca969bd, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3310924990791822814, guid: 0c36f83cf97608a4096fbe171ca969bd, type: 3}
+      propertyPath: m_Name
+      value: MediumBall
+      objectReference: {fileID: 0}
+    - target: {fileID: 6978007525335139922, guid: 0c36f83cf97608a4096fbe171ca969bd, type: 3}
+      propertyPath: m_Radius
+      value: 0.49
+      objectReference: {fileID: 0}
+    - target: {fileID: 8675693139031619068, guid: 0c36f83cf97608a4096fbe171ca969bd, type: 3}
+      propertyPath: ballDatas.Array.size
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 8675693139031619068, guid: 0c36f83cf97608a4096fbe171ca969bd, type: 3}
+      propertyPath: ballDatas.Array.data[0]
+      value: 
+      objectReference: {fileID: 11400000, guid: 63c0284a497d77e46aceca46feeec988, type: 2}
+    - target: {fileID: 8675693139031619068, guid: 0c36f83cf97608a4096fbe171ca969bd, type: 3}
+      propertyPath: ballDatas.Array.data[1]
+      value: 
+      objectReference: {fileID: 11400000, guid: 6ca845ad8af592445bd0aecaf83ffb84, type: 2}
+    - target: {fileID: 8675693139031619068, guid: 0c36f83cf97608a4096fbe171ca969bd, type: 3}
+      propertyPath: ballDatas.Array.data[2]
+      value: 
+      objectReference: {fileID: 11400000, guid: 8f57bb39c74739c4097a37fc93826bf1, type: 2}
+    - target: {fileID: 8675693139031619068, guid: 0c36f83cf97608a4096fbe171ca969bd, type: 3}
+      propertyPath: ballDatas.Array.data[3]
+      value: 
+      objectReference: {fileID: 11400000, guid: 884eb730b62d2d243939443fc15bbeef, type: 2}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 0c36f83cf97608a4096fbe171ca969bd, type: 3}

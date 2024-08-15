@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a461b204652c724b8f5ab96761b9107, type: 3}
+  m_Name: NEW_POOLER
+  m_EditorClassIdentifier: 
+  id: 1718503325930046523334
+  target: 0
+  categories:
+  - name: Ball Form
+    id: 1718503350247144943127
+  - name: Other
+    id: 1718503355444239928561
+  - name: Vfx
+    id: 1718503360508832991029
+  pools:
+  - poolName: Bullet
+    id: 1718503369664823266543
+    prefab: {fileID: 2386069103945796073, guid: 041752862576a014eb0ec8d6ffd83ade, type: 3}
+    startingParent: {fileID: 0}
+    startingQuantity: 0
+    category: 1718503355444239928561
+  - poolName: Enormous
+    id: 1722067362252727151099
+    prefab: {fileID: 3310924990791822814, guid: 0c36f83cf97608a4096fbe171ca969bd, type: 3}
+    startingParent: {fileID: 0}
+    startingQuantity: 0
+    category: 1718503350247144943127
+  - poolName: Big
+    id: 172206737550976514024
+    prefab: {fileID: 4906849480062186418, guid: 678bead582b20ec438946247d118d6a8, type: 3}
+    startingParent: {fileID: 0}
+    startingQuantity: 0
+    category: 1718503350247144943127
+  - poolName: Small
+    id: 172206738316330428774
+    prefab: {fileID: 4906849480062186418, guid: a6f857d5faa340b4fbdbaba9e8ade970, type: 3}
+    startingParent: {fileID: 0}
+    startingQuantity: 0
+    category: 1718503350247144943127
+  - poolName: Ball Hitted
+    id: 1722139058255228354466
+    prefab: {fileID: 325552650864118199, guid: 0a95b833376b7fb40afb4de6c0b20125, type: 3}
+    startingParent: {fileID: 0}
+    startingQuantity: 0
+    category: 1718503360508832991029
+  - poolName: Ball Explosion
+    id: 172213908237301138240
+    prefab: {fileID: 6978935880330884828, guid: 0ee2e855e78db254bb4e5ab5becccc1c, type: 3}
+    startingParent: {fileID: 0}
+    startingQuantity: 0
+    category: 1718503360508832991029
+  - poolName: Ground Hitted
+    id: 1722139095200215501968
+    prefab: {fileID: 3900377615578338811, guid: b88b86639f75cd74f83351d82b6d0096, type: 3}
+    startingParent: {fileID: 0}
+    startingQuantity: 0
+    category: 1718503360508832991029
